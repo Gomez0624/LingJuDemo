@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="keywords">
+        <item>小灵</item>
+        <item>灵聚</item>
+        <item>灵聚科技</item>
+        <item>小灵机器人</item>
+        <item>停</item>
+        <item>关闭</item>
+        <item>启动</item>
+        <item>回来</item>
+        <item>背诵</item>
+        <item>朗诵</item>
+        <item>朗读</item>
+        <item>播一首</item>
+        <item>播首</item>
+        <item>播首歌</item>
+        <item>留言</item>
+        <item>收藏</item>
+        <item>唤醒模式</item>
+        <item>打开唤醒模式</item>
+        <item>退出唤醒模式</item>
+        <item>退出监听状态</item>
+        <item>小灵休息</item>
+        <item>小李休息</item>
+        <item>第一个</item>
+        <item>第二个</item>
+        <item>二个</item>
+        <item>正确</item>
+        <item>错误</item>
+        <item>第三个</item>
+        <item>第四个</item>
+        <item>第五个</item>
+        <item>点播</item>
+        <item>记账</item>
+        <item>记事</item>
+        <item>转存</item>
+    </string-array>
+</resources>
